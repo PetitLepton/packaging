@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.2.0](https://github.com/PetitLepton/packaging/compare/v1.1.0...v1.2.0) (2024-11-08)
+
+
+### Features
+
+* test poetry pyproject.toml ([#6](https://github.com/PetitLepton/packaging/issues/6)) ([83c126c](https://github.com/PetitLepton/packaging/commit/83c126c8bd4e0fc00da4183b362388bff89eb41b))
+
 ## [1.1.0](https://github.com/PetitLepton/packaging/compare/v1.0.0...v1.1.0) (2024-11-08)
 
 
